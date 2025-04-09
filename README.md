@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="computer2.gif" alt="Sidheshwar Sarangal - Developer" width="800"/> <!-- image -->
+  <img src="computer2.gif" alt="Sidheshwar Sarangal - Developer" width="900"/> <!-- image -->
   <h1>Hi 👋, I'm Sidheshwar Sarangal</h1>
   <h3>A passionate developer and Techie!!!</h3>
 </div>
@@ -36,7 +36,7 @@ I'm a keen learner and I love to explore new technologies.
 
 ---
 
-### 🏷️ Connect with me: (social icons)
+### 🏷️ Connect with me:
 
 <p align="left">
 
