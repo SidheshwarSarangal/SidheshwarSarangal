@@ -66,7 +66,7 @@ I'm a keen learner and I love to explore new technologies.
 
 ---
 
-### 🧰 Languages and Tools: (tech logos)
+### 🧰 Languages and Tools: 
 
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <!-- image -->
