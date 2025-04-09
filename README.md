@@ -81,17 +81,21 @@ I'm a keen learner and I love to explore new technologies.
 ### 📊 GitHub Stats & Contributions:
 
 🔥 GitHub Streak
+
 <img src="https://streak-stats.demolab.com?user=sidheshwarsarangal&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> <!-- image -->
 
 
 📌 Top Languages
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidheshwarsarangal&layout=compact&theme=radical" alt="Top Languages" /> <!-- graph -->
 
 
 📊 Overall Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=sidheshwarsarangal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> <!-- graph -->
 
 
 📈 Contribution Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidheshwarsarangal&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
 
