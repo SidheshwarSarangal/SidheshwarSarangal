@@ -1,7 +1,7 @@
 <div align="center">
   <img src="computer2.gif" alt="Sidheshwar Sarangal - Developer" width="800"/> <!-- image -->
   <h1>Hi 👋, I'm Sidheshwar Sarangal</h1>
-  <h3>A passionate frontend developer and Techie!!!</h3>
+  <h3>A passionate developer and Techie!!!</h3>
 </div>
 
 <p align="center">
@@ -39,12 +39,21 @@ I'm a keen learner and I love to explore new technologies.
 ### 🏷️ Connect with me: (social icons)
 
 <p align="left">
+  
+  LinkedIn
+  
   <a href="https://linkedin.com/in/sidheshwar-sarangal-0b31482b8" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> <!-- image -->
   </a>
+
+  Instagram
+  
   <a href="https://instagram.com/sidheshwar.sarangal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /> <!-- image -->
   </a>
+
+  Leetcode
+  
   <a href="https://leetcode.com/u/sidheshwarsarangal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /> <!-- image -->
   </a>
