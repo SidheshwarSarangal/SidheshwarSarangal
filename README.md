@@ -39,6 +39,7 @@ I'm a keen learner and I love to explore new technologies.
 ### 🏷️ Connect with me: (social icons)
 
 <p align="left">
+
   
   LinkedIn
   
@@ -46,11 +47,13 @@ I'm a keen learner and I love to explore new technologies.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> <!-- image -->
   </a>
 
+
   Instagram
   
   <a href="https://instagram.com/sidheshwar.sarangal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /> <!-- image -->
   </a>
+
 
   Leetcode
   
