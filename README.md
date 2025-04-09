@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="computer.png" alt="Sidheshwar Sarangal - Developer" width="700"/>
+  <img src="computer2.gif" alt="Sidheshwar Sarangal - Developer" width="800"/>
   <h1>Hi 👋, I'm Sidheshwar Sarangal</h1>
   <h3>A passionate frontend developer and Techie!!!</h3>
 </div>
@@ -17,7 +17,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Angular and Next.js
+- Software Development and new Technologies
 
 ### 👨‍💻 All of my projects are available at
 [My Portfolio](https://portfolio-sidh-hosted-front.onrender.com/)
@@ -66,7 +66,7 @@ I'm a keen learner and I love to explore new technologies.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s" alt="postman" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
