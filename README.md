@@ -94,10 +94,6 @@ I'm a keen learner and I love to explore new technologies.
 
 ### 📊 GitHub Stats & Contributions:
 
-🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidheshwarsarangal&theme=radical" alt="GitHub Streak" />
-
 📌 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidheshwarsarangal&layout=compact&theme=radical" alt="Top Languages" /> <!-- graph -->
