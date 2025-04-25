@@ -29,7 +29,7 @@ Algorithms, React, Firebase, Express, Node.js
 **sidheshwar.sarangal@gmail.com**
 
 ### 📄 Resume
-[Resume Link](https://drive.google.com/file/d/1N3YhmL2AS4aW6m9F6Nl7O9i71doop11M/view?usp=sharing) <!-- link -->
+[Resume Link](https://drive.google.com/file/d/1LE2lAWe2PtkBTqHkY5BahPFt_NRovYgG/view?usp=sharing) <!-- link -->
 
 ### ⚡ Fun Fact
 I'm a keen learner and I love to explore new technologies.
