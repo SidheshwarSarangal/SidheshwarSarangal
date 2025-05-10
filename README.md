@@ -1,12 +1,51 @@
 <div align="center">
   <img src="computer2.gif" alt="Sidheshwar Sarangal - Developer" width="900"/> <!-- image -->
   <h1>Hi 👋, I'm Sidheshwar Sarangal</h1>
-  <h3>A passionate developer and Techie!!!</h3>
+  <h3>A passionate developer and Techie!!! | Full-Stack Developer | B.Tech @ IIT Roorkee</h3>
+
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidheshwarsarangal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- image -->
 </p>
+
+
+---
+
+### 👨‍💻 About Me
+
+I’m an enthusiastic **full-stack web developer** exploring and working with the latest web technologies. I’ve built projects using both the **MERN (MongoDB, Express, React, Node.js)** and **MEAN (MongoDB, Express, Angular, Node.js)** stacks. I am confident that I can work on any new tech stack if I am asked to work on it.
+I’m comfortable working with databases like **MongoDB** and **Firebase**, and I write **clean, maintainable code** that follows best practices.
+
+💡 With strong frontend skills, I can take **Figma designs** and accurately translate them into fully responsive, user-friendly web interfaces using tools like **TailwindCSS** and **Next.js**.
+
+🚀 My websites are **mobile-first, responsive**, and optimized for performance and usability. I enjoy turning ideas into real, interactive applications that solve real-world problems.
+
+---
+
+### 🔧 Projects I've Worked On
+
+- **🔗 Social Media Platform**  
+  Built a feature-rich social media web app with real-time chat, JWT authentication, and media storage via Cloudinary.  
+  *Stack:* React, Express, MongoDB, TailwindCSS, Vanilla JS.
+
+- **🧠 AI-Powered Chrome Extension**  
+  Developed a browser extension that extracts and summarizes content from any webpage using **Groq AI APIs** and downloads the results as `.txt` files.  
+  *Stack:* HTML, JavaScript, Manifest v3, Groq APIs.
+
+- **🌐 Biotech Library Management System**  
+  Created a full-stack app to manage 1000+ books used by over 1000 students in the department.  
+  *Stack:* React, Express, MongoDB.
+
+- **🖼️ AI Web App with Payment Gateway**  
+  Built an AI tool for image recognition and translation with **JWT auth**, **Cloudinary**, and **Cashfree payment integration**.  
+  *Stack:* Angular, TypeScript, Express, MongoDB, Groq APIs, Cashfree APIs.
+
+- **📱 Food Delivery UI**  
+  Designed and implemented a visually engaging food delivery app interface based on Figma designs.  
+  *Stack:* Next.js, TailwindCSS, Figma.
+
+---
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
