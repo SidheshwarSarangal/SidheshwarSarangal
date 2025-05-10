@@ -14,7 +14,8 @@
 
 ### 👨‍💻 About Me
 
-I’m an enthusiastic **full-stack web developer** exploring and working with the latest web technologies. I’ve built projects using both the **MERN (MongoDB, Express, React, Node.js)** and **MEAN (MongoDB, Express, Angular, Node.js)** stacks. I am confident that I can work on any new tech stack if I am asked to work on it.
+I’m an enthusiastic **full-stack web developer** exploring and working with the latest web technologies. I’ve built projects using both the **MERN (MongoDB, Express, React, Node.js)** and **MEAN (MongoDB, Express, Angular, Node.js)** stacks. I am confident that I can work on any new tech stack if I am asked to work on.
+
 I’m comfortable working with databases like **MongoDB** and **Firebase**, and I write **clean, maintainable code** that follows best practices.
 
 💡 With strong frontend skills, I can take **Figma designs** and accurately translate them into fully responsive, user-friendly web interfaces using tools like **TailwindCSS** and **Next.js**.
@@ -25,6 +26,10 @@ I’m comfortable working with databases like **MongoDB** and **Firebase**, and 
 
 ### 🔧 Projects I've Worked On
 
+- **🌄 Suhane Safar (Internship Project)**  
+  As a **Frontend Developer Intern**, I contributed to building a trekking and travel platform, developing modules to showcase destination details and improve user navigation.  
+  *Stack:* React, TailwindCSS, JavaScript.
+
 - **🔗 Social Media Platform**  
   Built a feature-rich social media web app with real-time chat, JWT authentication, and media storage via Cloudinary.  
   *Stack:* React, Express, MongoDB, TailwindCSS, Vanilla JS.
@@ -34,7 +39,7 @@ I’m comfortable working with databases like **MongoDB** and **Firebase**, and 
   *Stack:* HTML, JavaScript, Manifest v3, Groq APIs.
 
 - **🌐 Biotech Library Management System**  
-  Created a full-stack app to manage 1000+ books used by over 1000 students in the department.  
+  Created a full-stack app to manage 1000+ books used by over 1000+ students for the Biotechnology department@IIT Roorkee.  
   *Stack:* React, Express, MongoDB.
 
 - **🖼️ AI Web App with Payment Gateway**  
