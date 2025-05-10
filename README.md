@@ -1,7 +1,7 @@
 <div align="center">
   <img src="computer2.gif" alt="Sidheshwar Sarangal - Developer" width="900"/> <!-- image -->
   <h1>Hi 👋, I'm Sidheshwar Sarangal</h1>
-  <h3>A passionate developer and Techie!!! | Full-Stack Developer | B.Tech @ IIT Roorkee</h3>
+  <h3>Full-Stack Developer | B.Tech @ IIT Roorkee | A passionate developer and Techie!!!</h3>
 
 </div>
 
