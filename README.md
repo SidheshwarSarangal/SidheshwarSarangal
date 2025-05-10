@@ -60,8 +60,10 @@ I’m comfortable working with databases like **MongoDB** and **Firebase**, and 
 
 ---
 
-### 🌱 Currently Learning
-- Software Development and new Technologies
+### 🌱 Currently
+- Exploring new technologies and tools.
+- Actively seeking **Software Development Internship** or **Full-Time Opportunities** where I can apply my skills and grow as a developer.
+
 
 ### 🌐 Portfolio
 [My Portfolio](https://portfolio-sidh-hosted-front.onrender.com/) <!-- link -->
