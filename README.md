@@ -46,8 +46,8 @@ I’m comfortable working with databases like **MongoDB** and **Firebase**, and 
   Built an AI tool for image recognition and translation with **JWT auth**, **Cloudinary**, and **Cashfree payment integration**.  
   *Stack:* Angular, TypeScript, Express, MongoDB, Groq APIs, Cashfree APIs.
 
-- **📱 Food Delivery UI**  
-  Designed and implemented a visually engaging food delivery app interface based on Figma designs.  
+- **📱 Pizza App**  
+  Designed and implemented a visually engaging pizza delivery app interface based on Figma designs and deeployed on vercel.  
   *Stack:* Next.js, TailwindCSS, Figma.
 
 ---
