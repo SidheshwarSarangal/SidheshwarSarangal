@@ -49,6 +49,10 @@ I’m comfortable working with databases like **MongoDB** and **Firebase**, and 
 - **📱 Pizza App**  
   Designed and implemented a visually engaging pizza delivery app interface based on Figma designs and deeployed on vercel.  
   *Stack:* Next.js, TailwindCSS, Figma.
+  [Depoyed Link](https://nextjs-pizza-app-five.vercel.app/)
+  Open this link and sign in using google.
+  <!-- link -->
+
 
 ---
 
