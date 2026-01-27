@@ -14,45 +14,74 @@
 
 ### 👨‍💻 About Me
 
-I’m an enthusiastic **full-stack web developer** exploring and working with the latest web technologies. I’ve built projects using both the **MERN (MongoDB, Express, React, Node.js)** and **MEAN (MongoDB, Express, Angular, Node.js)** stacks. I am confident that I can work on any new tech stack if I am asked to work on.
+👋 Hi, I’m Sidheshwar Sarangal
 
-I’m comfortable working with databases like **MongoDB** and **Firebase**, and I write **clean, maintainable code** that follows best practices.
+🚀 Software Engineer | Full-Stack (MERN / Angular / Next.js) | Backend & Systems (Linux, Kafka, OCI)
 
-💡 With strong frontend skills, I can take **Figma designs** and accurately translate them into fully responsive, user-friendly web interfaces using tools like **TailwindCSS** and **Next.js**.
+I’m a final-year B.Tech student at IIT Roorkee who builds production-ready web applications and understands what happens behind the scenes — from databases and APIs to logs, cron jobs, and message queues.
 
-🚀 My websites are **mobile-first, responsive**, and optimized for performance and usability. I enjoy turning ideas into real, interactive applications that solve real-world problems.
+I enjoy working close to real systems: performance, reliability, and clean architecture.
 
 ---
 
-### 🔧 Projects I've Worked On
+### 🧰 Core Skills
+- Languages: C++, JavaScript, TypeScript, Python, Java
+- Frontend: React, Angular, Next.js, TailwindCSS
+- Backend: Node.js, Express, Spring Boot, FastAPI
+- Databases: MongoDB, MySQL, Firebase
+- Systems & Infra: Linux, cron, logs, Kafka, OCI
+- Tools: Git, Cloudinary, Postman
 
-- **🌄 Suhane Safar (Internship Project)**  
-  As a **Frontend Developer Intern**, I contributed to building a trekking and travel platform, developing modules to showcase destination details and improve user navigation.  
-  *Stack:* React, TailwindCSS, JavaScript.
 
-- **🔗 Social Media Platform**  
-  Built a feature-rich social media web app with real-time chat, JWT authentication, and media storage via Cloudinary.  
-  *Stack:* React, Express, MongoDB, TailwindCSS, Vanilla JS.
+---
 
-- **🧠 AI-Powered Chrome Extension**  
-  Developed a browser extension that extracts and summarizes content from any webpage using **Groq AI APIs** and downloads the results as `.txt` files.  
-  *Stack:* HTML, JavaScript, Manifest v3, Groq APIs.
+Gotcha 👍
+Here’s a **short, clean, copy-paste ready** version — **all projects + experience**, no fluff, perfect for a GitHub README.
 
-- **🌐 Biotech Library Management System**  
-  Created a full-stack app to manage 1000+ books used by over 1000+ students for the Biotechnology department@IIT Roorkee.  
-  *Stack:* React, Express, MongoDB.
+---
 
-- **🖼️ AI Web App with Payment Gateway**  
-  Built an AI tool for image recognition and translation with **JWT auth**, **Cloudinary**, and **Cashfree payment integration**.  
-  *Stack:* Angular, TypeScript, Express, MongoDB, Groq APIs, Cashfree APIs.
+## 🔧 Projects & Experience
 
-- **📱 Pizza App**  
-  Designed and implemented a visually engaging pizza delivery app interface based on Figma designs and deeployed on vercel.  
-  *Stack:* Next.js, TailwindCSS, Figma.
-  [Depoyed Link](https://nextjs-pizza-app-five.vercel.app/)
-  Open this link and sign in using google.
-  <!-- link -->
+* **🌄 Suhane Safar — Software Developer Intern** *(Mar 2025 – May 2025)*
+  Built responsive UI modules for a trekking & travel platform and implemented a Google Sheets workflow to manage user feedback.
+  **Tech:** React, Angular, TailwindCSS, JWT, Cloudinary, Groq APIs, Cashfree APIs
 
+* **💼 Prospire Network Pvt. Ltd. — Software Engineer Intern** *(Jan 2026 – Present)*
+  Worked on payment, refund, and subscription workflows, monitored logs, debugged production issues, and improved system stability.
+  **Tech:** Next.js, Databases, Logging
+
+* **🔗 Social Media Platform (ACM IIT Roorkee)**
+  Full-stack MERN app with JWT auth, Cloudinary media storage, and real-time chat.
+  **Tech:** React, Express, MongoDB, TailwindCSS
+
+* **🧠 AI-Powered Chrome Extension (GDSC IIT Roorkee)**
+  Chrome extension to extract and summarize webpage content using Groq AI APIs.
+  **Tech:** JavaScript, HTML, Manifest v3, Groq APIs
+
+* **🔍 Search Engine for Blogs & Articles (GDSC IIT Roorkee)**
+  Web crawler with AI-filtered indexing and fast search using OpenSearch.
+  **Tech:** Python, Scrapy, FastAPI, React, MongoDB, OpenSearch
+
+* **🌐 Biotech Library Management System (IIT Roorkee)**
+  MERN app managing 1000+ books for students and librarians.
+  **Tech:** React, Express, MongoDB
+
+* **🖼️ AI Web App with Payment Gateway**
+  AI tool for text, audio, and image analysis with JWT auth and Cashfree payments.
+  **Tech:** Angular, TypeScript, Express, MongoDB, Groq APIs, Cashfree APIs
+
+* **🧑‍🤝‍🧑 Real-Time Whiteboard**
+  Collaborative whiteboard with room-based access using Socket.IO.
+  **Tech:** MERN Stack, Socket.IO
+
+* **📱 Pizza Delivery App (UI)**
+  Responsive Next.js UI built from Figma with Google OAuth, deployed on Vercel.
+  **Tech:** Next.js, TailwindCSS
+  🔗 [https://nextjs-pizza-app-five.vercel.app/](https://nextjs-pizza-app-five.vercel.app/)
+
+* **☁️ Backup & Restore System (OCI)**
+  Linux-based automated backup system with cron, logging, and restore validation.
+  **Tech:** Linux, Bash, Oracle Cloud (OCI)
 
 ---
 
