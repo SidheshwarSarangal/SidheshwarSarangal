@@ -62,7 +62,9 @@
 **Other:** REST APIs, JWT, Socket.IO, Cloudinary, Scrapy
 
 ---
-
+<details>
+<summary><b>Click to see my Highlighted projects</b></summary
+                                            
 ## 🚀 Featured Projects
 
 ### 🔍 AI-Powered Search Engine
@@ -119,6 +121,8 @@ Worked on subscription creation, authorization, payment, refund and cancellation
 * Implemented payment authorization using UPI and eNACH
 * Added refund calculation and subscription cancellation flows
 * Managed user subscription status through backend APIs
+
+</details>
 
 ---
 
