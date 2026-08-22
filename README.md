@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sidheshwar Sarangal</h1>
 
-<details>
-<summary><strong>👤 Profile & Links</strong></summary>
+## 👤 Profile & Links
 
 <h3 align="center">Software Engineer | Backend-Leaning Full-Stack Developer | IIT Roorkee</h3>
 
@@ -26,16 +25,28 @@
   <a href="mailto:sidheshwar.sarangal22@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" />
   </a>
+  <a href="https://x.com/Sidheshwar2002">
+    <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c3a7c22865209f3d">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://chat.stackoverflow.com/users/32823984/sidheshwar-sarangal">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Chat-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow Chat" />
+  </a>
+  <a href="https://wellfound.com/u/sidheshwar-sarangal">
+    <img src="https://img.shields.io/badge/Wellfound-Profile-000000" alt="Wellfound" />
+  </a>
+  <a href="https://dev.to/sidheshwar_sarangal_fe09b">
+    <img src="https://img.shields.io/badge/DEV.to-Profile-0A0A0A?logo=devdotto&logoColor=white" alt="DEV Community" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidheshwarsarangal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>👨‍💻 About Me</strong></summary>
+## 👨‍💻 About Me
 
 - 🎓 B.Tech graduate from **IIT Roorkee**
 - 💻 Backend-leaning full-stack developer
@@ -43,10 +54,10 @@
 - 🔍 Interested in backend engineering, distributed systems, and search technologies
 - 🌱 Currently strengthening system design and cloud-native development
 
-</details>
-
 <details>
 <summary><strong>🛠️ Tech Stack</strong></summary>
+
+<br />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,angular,nextjs,nodejs,express,spring,fastapi,mongodb,mysql,docker,kubernetes,linux,git,github,postman&perline=10" alt="Technology stack" />
@@ -63,6 +74,8 @@
 
 <details>
 <summary><strong>🚀 Featured Projects</strong></summary>
+
+<br />
 
 ### 🔍 AI-Powered Search Engine
 
@@ -124,6 +137,8 @@ Worked on subscription creation, authorization, payment, refund, and cancellatio
 <details>
 <summary><strong>💼 Experience</strong></summary>
 
+<br />
+
 ### Software Engineer Intern — Investing Accelerator Summit
 
 *January 2026 – February 2026*
@@ -146,6 +161,8 @@ Worked on subscription creation, authorization, payment, refund, and cancellatio
 <details>
 <summary><strong>📊 GitHub Analytics</strong></summary>
 
+<br />
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidheshwarsarangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidheshwarsarangal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
@@ -167,6 +184,8 @@ Worked on subscription creation, authorization, payment, refund, and cancellatio
 
 <details>
 <summary><strong>🤝 Connect With Me</strong></summary>
+
+<br />
 
 <p align="left">
   <a href="https://linkedin.com/in/sidheshwar-sarangal-0b31482b8">
