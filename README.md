@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Sidheshwar Sarangal</h1>
 
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
 ## 👤 Profile & Links
 
 <h3 align="center">Software Engineer | Backend-Leaning Full-Stack Developer | IIT Roorkee</h3>
